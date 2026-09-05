@@ -17,3 +17,10 @@ To prevent griefing, players need the `server` privilege to use these commands.
 3. Move to the opposite corner (diagonally, including the height you want to clear).
 4. Type `/borr pos2` in the chat. 
 5. The area will instantly be replaced with air and cleaned of entities.
+
+---
+ILSEM
+---
+AUTHOR: Juha (Craftplay777)
+LICENSE: MIT 
+---
