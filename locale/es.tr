@@ -1,3 +1,4 @@
+# textdomain: borr
 [Borr] Area completely cleared!=[Borr] ¡Área limpiada por completo!
 Clears blocks and entities from an area. Use /borr pos1 and /borr pos2=Borra bloques y entidades de un área. Usa /borr pos1 y /borr pos2
 [Borr] Run '/borr pos1' where you are standing. Then go to the opposite corner and use '/borr pos2'.=[Borr] Ejecuta '/borr pos1' donde estés parado. Luego ve a la esquina opuesta y usa '/borr pos2'.

@@ -1,3 +1,4 @@
+# textdomain: borr
 [Borr] Area completely cleared!=[Borr] Zone entièrement nettoyée !
 Clears blocks and entities from an area. Use /borr pos1 and /borr pos2=Efface les blocs et les entités d'une zone. Utilisez /borr pos1 et /borr pos2
 [Borr] Run '/borr pos1' where you are standing. Then go to the opposite corner and use '/borr pos2'.=[Borr] Exécutez '/borr pos1' là où vous vous tenez. Allez ensuite dans le coin opposé et utilisez '/borr pos2'.
