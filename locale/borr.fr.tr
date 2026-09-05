@@ -1,0 +1,7 @@
+[Borr] Area completely cleared!=[Borr] Zone entièrement nettoyée !
+Clears blocks and entities from an area. Use /borr pos1 and /borr pos2=Efface les blocs et les entités d'une zone. Utilisez /borr pos1 et /borr pos2
+[Borr] Run '/borr pos1' where you are standing. Then go to the opposite corner and use '/borr pos2'.=[Borr] Exécutez '/borr pos1' là où vous vous tenez. Allez ensuite dans le coin opposé et utilisez '/borr pos2'.
+[Borr] Position 1 saved.=[Borr] Position 1 sauvegardée.
+[Borr] Position 2 saved. Clearing area...=[Borr] Position 2 sauvegardée. Nettoyage de la zone...
+[Borr] Error: You need to define Position 1 first. Use '/borr pos1'.=[Borr] Erreur : Vous devez d'abord définir la Position 1. Utilisez '/borr pos1' en premier.
+[Borr] Invalid parameter. Use only /borr, /borr pos1 or /borr pos2=[Borr] Paramètre invalide. Utilisez uniquement /borr, /borr pos1 ou /borr pos2
